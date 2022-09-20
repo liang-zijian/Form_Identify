@@ -7,20 +7,22 @@
 
 表单识别
 
-│  3.JPG  **测试图片1**
-│  5.JPG  **测试图片2**
-│  6.JPG  **测试图片3**
-│  Access_token.py  **获取token脚本**
-│  edged_bi.png **边缘检测+二值化结果**
-│  filtered.png	**滤波结果**
-│  Lab_12.py **主函数**
-│  pre_done.png **初步预处理结果**
-│  README.md **README**
-│  spinned.png **自适应旋转后结果**
+```
+│  3.JPG  测试图片1
+│  5.JPG  测试图片2
+│  6.JPG  测试图片3
+│  Access_token.py  获取token脚本
+│  edged_bi.png 边缘检测+二值化结果
+│  filtered.png	滤波结果
+│  Lab_12.py 主函数
+│  pre_done.png 初步预处理结果
+│  README.md README
+│  spinned.png 自适应旋转后结果
 │
-└─Pretreatment **预处理结果文件夹**
-        aaa.png **API输入图片**
-        aaa.xls **输出excel表**
+└─Pretreatment 预处理结果文件夹
+        aaa.png API输入图片
+        aaa.xls 输出excel表
+```
 
 ## 使用说明
 
